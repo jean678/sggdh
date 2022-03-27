@@ -1,9 +1,9 @@
 # 色果果导航
 
-# sggdh.net[sggdh.net]
-# sggdh.cc[sggdh.cc]
-# sggdh.me[sggdh.me]
-# sggdh.co[sggdh.co]
+# [sggdh.net]
+# [sggdh.cc]
+# [sggdh.me]
+# [sggdh.co]
 
 [sggdh.net]: https://sggdh.net
 [sggdh.cc]: https://sggdh.cc
